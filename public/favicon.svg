@@ -1,0 +1,16 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="26" fill="#F5EFEB"/>
+  <g transform="translate(60, 60) scale(0.92)">
+    <path d="M 0 -22 Q 0 0 22 0 Q 0 0 0 22 Q 0 0 -22 0 Q 0 0 0 -22 Z" fill="#D8B6A4"/>
+    <g fill="#811A1A">
+      <path d="M 8 -38 C 8 -15 15 -8 38 -8 C 20 -12 12 -20 8 -38 Z"/>
+      <path d="M 38 8 C 15 8 8 15 8 38 C 12 20 20 12 38 8 Z"/>
+      <path d="M -8 38 C -8 15 -15 8 -38 8 C -20 12 -12 20 -8 38 Z"/>
+      <path d="M -38 -8 C -15 -8 -8 -15 -8 -38 C -12 -20 -20 -12 -38 -8 Z"/>
+    </g>
+    <g fill="#1A1818">
+      <circle cx="0" cy="-45" r="6"/><circle cx="31.8" cy="-31.8" r="6"/><circle cx="45" cy="0" r="6"/><circle cx="31.8" cy="31.8" r="6"/>
+      <circle cx="0" cy="45" r="6"/><circle cx="-31.8" cy="31.8" r="6"/><circle cx="-45" cy="0" r="6"/><circle cx="-31.8" cy="-31.8" r="6"/>
+    </g>
+  </g>
+</svg>
